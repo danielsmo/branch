@@ -8,6 +8,7 @@ public class Main {
 
     private void metodo(){
         String azul;
+        String cor;
         
     }
 }
